@@ -2,7 +2,7 @@
  *@NApiVersion 2.x
  *@NScriptType Portlet
  */
-
+///author---NIDHI MALIK
 // This sample creates a portlet with a simple list
 define(['N/search'], function (search) {
     function render(params) {
